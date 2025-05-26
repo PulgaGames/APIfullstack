@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webapi",
+    "\\webapi\\accesodatos",
+    "\\webapi\\clienterest",
+    "\\webapi\\comun",
+    "\\webapi\\comun\\viewmodels",
+    "\\webapi\\webapi",
+    "\\webapi\\webapi\\Controllers"
+  ],
+  "SelectedNode": "\\webapi\\comun\\viewmodels",
+  "PreviewInSolutionExplorer": false
+}
